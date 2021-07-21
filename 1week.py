@@ -7,7 +7,7 @@ print("   ∧＿∧\nｒy´・ω・｀ヽっ \n `!       i \n ゝc＿c_,.ノ")
 #60을 0으로 나눌 수 없어서
 
 #4
-#string은 float와 더할 수 없음
+#string은 integer와 더할 수 없음
 
 #5
 print(type(123+123.0))
@@ -81,4 +81,5 @@ def sigma():
     print(result2)
 sigma()
 
-
+#12
+I want to practice my git and git hub
